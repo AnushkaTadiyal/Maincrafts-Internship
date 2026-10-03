@@ -1,0 +1,4 @@
+,Train RMSE,Test RMSE,Train R2,Test R2,Test MAE
+Linear Regression,0.7197,0.7456,0.6126,0.5758,0.5332
+Ridge Regression,0.7197,0.7456,0.6126,0.5758,0.5332
+Decision Tree,0.6959,0.7242,0.6377,0.5997,0.5223
